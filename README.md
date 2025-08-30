@@ -94,6 +94,9 @@ Giao diện thân thiện, dễ sử dụng trên máy tính và điện thoại
 Giúp cửa hàng mở rộng kênh bán hàng, tiếp cận nhiều khách hàng hơn.
 Sản phẩm thực tế, có khả năng triển khai và phát triển trong kinh doanh.
 
+### Ảnh demo
+![ẢNh demo1](./img/demo.jpg)
+
 ### Hướng phát triển
 
 Tích hợp cổng thanh toán online (Momo, VNPay, ZaloPay…).
