@@ -101,3 +101,7 @@ Quản lý tồn kho, thống kê doanh thu tự động.
 Gửi email xác nhận đơn hàng, chatbot hỗ trợ khách hàng.
 Phát triển ứng dụng di động (mobile app).
 Tối ưu SEO để tăng khả năng tiếp cận khách hàng.
+ ### Lời cảm ơn
+ Nhóm xin cảm ơn thầy/cô và mọi người đã theo dõi và góp ý để hoàn thiện sản phẩm.
+ 
+
